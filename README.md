@@ -6,5 +6,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=musictena&theme=tokyonight&hide_border=true)
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=musictena&count_private=true&theme=tokyonight&showicons=true&layout=compact)]()
  -->
+ <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=musictena" width="600" /></a>
 
 
